@@ -42,7 +42,7 @@ Error message: "Passwords do not match."
 Remains disabled until all fields are validated successfully.
 
 # Check out the page
-Click [https://jpriya28.github.io/FlexBox-task/] here to visit my  website
+Click [https://jpriya28.github.io/form-validate/] here to visit my  website
 
 # Contributing
 
